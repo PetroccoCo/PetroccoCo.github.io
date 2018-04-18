@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Petrocco.co</title>
-    <link>http://www.petrocco.co/posts/</link>
+    <link>petroccoco.github.io/posts/</link>
     <description>Recent content in Posts on Petrocco.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Apr 2018 13:37:34 -0600</lastBuildDate>
     
-	<atom:link href="http://www.petrocco.co/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="petroccoco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://www.petrocco.co/posts/my-first-post/</link>
+      <link>petroccoco.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 17 Apr 2018 13:37:34 -0600</pubDate>
       
-      <guid>http://www.petrocco.co/posts/my-first-post/</guid>
+      <guid>petroccoco.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     

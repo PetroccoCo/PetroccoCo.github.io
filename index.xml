@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petrocco.co</title>
-    <link>http://www.petrocco.co/</link>
+    <link>petroccoco.github.io/</link>
     <description>Recent content on Petrocco.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Apr 2018 13:39:51 -0600</lastBuildDate>
     
-	<atom:link href="http://www.petrocco.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="petroccoco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.petrocco.co/about/</link>
+      <link>petroccoco.github.io/about/</link>
       <pubDate>Tue, 17 Apr 2018 13:39:51 -0600</pubDate>
       
-      <guid>http://www.petrocco.co/about/</guid>
+      <guid>petroccoco.github.io/about/</guid>
       <description>Hi I&amp;rsquo;m Pete I&amp;rsquo;m a polyglot software developer, with a passion for using technology to make life better.
 Languages, frameworks and current projects I&amp;rsquo;m working on:
 Dart via a flutter app for a personal project</description>
@@ -24,10 +24,10 @@ Dart via a flutter app for a personal project</description>
     
     <item>
       <title>My First Post</title>
-      <link>http://www.petrocco.co/posts/my-first-post/</link>
+      <link>petroccoco.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 17 Apr 2018 13:37:34 -0600</pubDate>
       
-      <guid>http://www.petrocco.co/posts/my-first-post/</guid>
+      <guid>petroccoco.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
